@@ -10,9 +10,6 @@ Open any browser with internet connection and then type [Hackerrank](https://www
 
 atleast know one programming language and have a wish to do something
 
-```
-Give examples
-```
 ## Contributing
 
 Please contibute in that
