@@ -17,7 +17,6 @@ Please contibute in that
 ## Authors
 
 * **Chetan jain** - *Initial work* - 
-* **Ishika aggarwal** - *partner* - 
 
 See also the list of [contributors](https://github.com/chetan645/hackerrank/contributors) who participated in this project.
 
